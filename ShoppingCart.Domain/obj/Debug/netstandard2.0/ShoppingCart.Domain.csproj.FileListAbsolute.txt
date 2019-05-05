@@ -1,0 +1,17 @@
+C:\Users\jalpesh\source\ShoppingCart.Domain\obj\Debug\netstandard2.0\ShoppingCart.Domain.csprojAssemblyReference.cache
+C:\Users\jalpesh\source\ShoppingCart.Domain\obj\Debug\netstandard2.0\ShoppingCart.Domain.csproj.CoreCompileInputs.cache
+C:\Users\jalpesh\source\ShoppingCart.Domain\obj\Debug\netstandard2.0\ShoppingCart.Domain.AssemblyInfoInputs.cache
+C:\Users\jalpesh\source\ShoppingCart.Domain\obj\Debug\netstandard2.0\ShoppingCart.Domain.AssemblyInfo.cs
+C:\Users\jalpesh\source\ShoppingCart.Domain\bin\Debug\netstandard2.0\ShoppingCart.Domain.deps.json
+C:\Users\jalpesh\source\ShoppingCart.Domain\bin\Debug\netstandard2.0\ShoppingCart.Domain.dll
+C:\Users\jalpesh\source\ShoppingCart.Domain\bin\Debug\netstandard2.0\ShoppingCart.Domain.pdb
+C:\Users\jalpesh\source\ShoppingCart.Domain\obj\Debug\netstandard2.0\ShoppingCart.Domain.dll
+C:\Users\jalpesh\source\ShoppingCart.Domain\obj\Debug\netstandard2.0\ShoppingCart.Domain.pdb
+C:\Users\jalpesh\source\repos\ShoppingCart.Domain\bin\Debug\netstandard2.0\ShoppingCart.Domain.deps.json
+C:\Users\jalpesh\source\repos\ShoppingCart.Domain\bin\Debug\netstandard2.0\ShoppingCart.Domain.dll
+C:\Users\jalpesh\source\repos\ShoppingCart.Domain\bin\Debug\netstandard2.0\ShoppingCart.Domain.pdb
+C:\Users\jalpesh\source\repos\ShoppingCart.Domain\obj\Debug\netstandard2.0\ShoppingCart.Domain.csproj.CoreCompileInputs.cache
+C:\Users\jalpesh\source\repos\ShoppingCart.Domain\obj\Debug\netstandard2.0\ShoppingCart.Domain.AssemblyInfoInputs.cache
+C:\Users\jalpesh\source\repos\ShoppingCart.Domain\obj\Debug\netstandard2.0\ShoppingCart.Domain.AssemblyInfo.cs
+C:\Users\jalpesh\source\repos\ShoppingCart.Domain\obj\Debug\netstandard2.0\ShoppingCart.Domain.dll
+C:\Users\jalpesh\source\repos\ShoppingCart.Domain\obj\Debug\netstandard2.0\ShoppingCart.Domain.pdb
